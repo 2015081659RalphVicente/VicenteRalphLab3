@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VicenteRalphLab3</string>
+    <string name="pic">pic</string>
+    <string name="location">Location: San Lazaro, Manila</string>
+    <string name="distance">Distance from UST: 1.2km</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="title">Winford Casino</string>
+</resources>
